@@ -1,2 +1,3 @@
-# cubelizer
-web dev. 
+# Cubelizer Website 
+
+Web design and development
